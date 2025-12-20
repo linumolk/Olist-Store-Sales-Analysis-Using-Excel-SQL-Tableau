@@ -39,5 +39,5 @@ The dataset contained 9 tables.
 
 
 ### Tableau Dashboard Preview:
-![Olist Store Analysis](Olist-Store-Analysis-Dashboard,png).
-![Churn Dashboard](Churn-Analysis-Dashboard.png)
+![Olist Store Analysis](Olist-Store-Analysis-Dashboard.png).
+
