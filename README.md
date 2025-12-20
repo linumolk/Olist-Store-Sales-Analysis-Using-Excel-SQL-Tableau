@@ -11,5 +11,15 @@ Olist is a Brazil based E-commerce platform that connects sellers and buyers for
 ### 📁About Dataset
 The dataset contained 9 tables.
 
+### 📌Workflow
+
+### 🧩Excel
+- Utilized Excel for cleaning the dataset (standardized, removed unwanted columns, removed duplications)
+- Changed some columns to correct datatypes and performed data transformation by adding new columns (Year, Month Day, Weekday and Weekend, Total Prize) using Power Query Editor.
+
+### 🧩MySQL
+-
+
+
 ### Tableau Dashboard :
 ![Olist Store Analysis](Olist-Store-Analysis-Dashboard).
