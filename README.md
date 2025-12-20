@@ -17,12 +17,12 @@ The dataset contained 9 tables.
 - Utilized Excel for cleaning the dataset (standardized, removed unwanted columns, removed duplications)
 - Changed some columns to correct datatypes and performed data transformation by adding new columns (Year, Month Day, Weekday and Weekend, Total Prize) using Power Query Editor.
 
-### 🧩MySQL
+### MySQL
 - AFter importing all files into MySQL defined table relationship using Primary Key and Foreign Key.
 - Generated an ER Diagram of the tables.
 - Conducted exploratory data analysis to find trneds and patterns.
 
-### 📊Tableau
+### Tableau
 - Created an interactive dashboard which shows the key metrices like:
  - Total sales , Total orders, Total sellers, Total customers, Average review.
  - Weekend vs weekday total sales.
@@ -39,4 +39,4 @@ The dataset contained 9 tables.
 
 
 ### Tableau Dashboard :
-![Olist Store Analysis](Olist-Store-Analysis-Dashboard).
+![Olist Store Analysis](Olist-Store-Analysis-Dashboard,png).
