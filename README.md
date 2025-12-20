@@ -22,6 +22,9 @@ The dataset contained 9 tables.
 - Generated an ER Diagram of the tables.
 - Conducted exploratory data analysis to find trneds and patterns.
 
+## 📌ER Diagram:
+![ER Diagram](ER-Diagram-Olist-Store.png).
+
 ### Tableau
 - Created an interactive dashboard which shows the key metrices like:
  - Total sales , Total orders, Total sellers, Total customers, Average review.
