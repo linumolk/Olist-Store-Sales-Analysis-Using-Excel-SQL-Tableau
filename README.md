@@ -1,46 +1,73 @@
 # Olist-Store-Analysis
 
 ### 🎯 Introduction
-Olist is a Brazil based E-commerce platform that connects sellers and buyers for online retail and services. The goal of the project is to analyze the sales trends, customer behaviour, products performace etc to improve the customer satisfaction and sales performance of the online store.
+Olist is a Brazil-based e-commerce platform that connects sellers and buyers for online retail services.  
+The objective of this project is to analyze **sales trends, customer behavior, and product performance** to derive insights that can help improve **customer satisfaction and overall sales performance**.
 
-### ⚙ Tools USed:
-- Microsoft Excel
-- MySQL Workbench
-- Tableau
+---
 
-### 📁About Dataset
-The dataset contained 9 tables.
+### ⚙ Tools Used
+- Microsoft Excel  
+- MySQL Workbench  
+- Tableau  
 
-### 📌Workflow
+---
 
-### Excel
-- Utilized Excel for cleaning the dataset (standardized, removed unwanted columns, removed duplications)
-- Changed some columns to correct datatypes and performed data transformation by adding new columns (Year, Month Day, Weekday and Weekend, Total Prize) using Power Query Editor.
+### 📁 Dataset Overview
+The dataset consists of **9 relational tables**, including orders, customers, products, sellers, payments, and reviews.
 
-### MySQL
-- AFter importing all files into MySQL defined table relationship using Primary Key and Foreign Key.
-- Generated an ER Diagram of the tables.
-- Conducted exploratory data analysis to find trneds and patterns.
+---
 
-## 📌ER Diagram:
+## 📌 Workflow
+
+### Excel (Data Cleaning & Transformation)
+- Standardized column names  
+- Removed unwanted columns and duplicate records  
+- Corrected data types  
+- Performed data transformation using **Power Query Editor**  
+- Created new Columns for:
+  - Year  
+  - Month  
+  - Day  
+  - Weekday / Weekend  
+  - Total Price  
+
+---
+
+### MySQL (Data Modeling & EDA)
+- Imported cleaned datasets into MySQL  
+- Defined table relationships using **Primary Keys and Foreign Keys**  
+- Generated an **ER Diagram**  
+- Conducted **Exploratory Data Analysis (EDA)** to identify trends and patterns  
+
+---
+
+### 📌ER Diagram:
 ![ER Diagram](ER-Diagram-Olist-Store.png).
 
-### Tableau
-- Created an interactive dashboard which shows the key metrices like:
- - Total sales , Total orders, Total sellers, Total customers, Average review.
- - Weekend vs weekday total sales.
- - Average price and payment value of Sao Paulo.
- -	Monthly order trend
- -	Year wise sales
- -	Top 5 products
- -	State wise order count
- -	Order count by days
- -	Products with review 5 and payment type credit card.
- -	Review score impact on shipping days.
- -	Most preferred payments type.
+### Tableau (Data Visualization)
+Developed an **interactive Tableau dashboard** to visualize key business metrics:
 
+- Total Sales  
+- Total Orders  
+- Total Sellers  
+- Total Customers  
+- Average Review Score  
+- Weekend vs Weekday Sales  
+- Monthly Order Trend  
+- Year-wise Sales  
+- Top 5 Products  
+- State-wise Order Count  
+- Order Count by Day  
+- Most Preferred Payment Type  
+- Products with 5-Star Reviews using Credit Card Payments  
+- Impact of Review Score on Shipping Days  
 
+---
 
 ### Tableau Dashboard Preview:
 ![Olist Store Analysis](Olist-Store-Analysis-Dashboard.png).
+
+---
+## Key Outcomes
 
