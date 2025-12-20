@@ -14,7 +14,7 @@ The objective of this project is to analyze **sales trends, customer behavior, a
 ---
 
 ### 📁 Dataset Overview
-The dataset consists of **9 relational tables**, including orders, customers, products, sellers, payments, and reviews.
+The dataset contained the details of Olist Store Sales from the year 2016 to 2018 with over 100k orders. The 9 tables contained the informations about Olist’s customers, customer locations, orders, products, sellers and reviews.
 
 ---
 
@@ -45,6 +45,8 @@ The dataset consists of **9 relational tables**, including orders, customers, pr
 ### 📌ER Diagram:
 ![ER Diagram](ER-Diagram-Olist-Store.png).
 
+---
+
 ### Tableau (Data Visualization)
 Developed an **interactive Tableau dashboard** to visualize key business metrics:
 
@@ -69,5 +71,17 @@ Developed an **interactive Tableau dashboard** to visualize key business metrics
 ![Olist Store Analysis](Olist-Store-Analysis-Dashboard.png).
 
 ---
-## Key Outcomes
+### 🔍Key Outcomes
+- Olist’s overall performance shows a significant growth in total sales, order count and customer satisfaction.
+- The high review score and repeated ordering of top products like Bed Bath Table, Health Beauty, Watches Gifts shows the customer satisfaction with the product.
+- Sao Paulo and Rio De Janeiro leads both in customer count and sales, highlighting its importance as a key market.
+- May, consistently generate the highest sales, while September marks a decline, signaling potential seasonal variations.
+
+### 💡 Recommendations 
+- Introduce weekend specific promotions or dicsounts as weekend sales very low compared to weekdays.
+- Giving a detailed information about the products can improve the customer satisfaction and order count. 
+- Introducing more offers and discounts can bring more sales and orders.
+- Expanding diverse payment methods can meet a strong customer satisafaction.
+- Introduce more diverse products can attract more customers
+
 
