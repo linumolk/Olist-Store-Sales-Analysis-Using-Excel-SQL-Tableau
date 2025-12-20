@@ -10,3 +10,6 @@ Olist is a Brazil based E-commerce platform that connects sellers and buyers for
 
 ### 📁About Dataset
 The dataset contained 9 tables.
+
+### Tableau Dashboard :
+![Olist Store Analysis](Olist-Store-Analysis-Dashboard).
