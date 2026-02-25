@@ -1,4 +1,4 @@
-# Olist-Store-Analysis
+# Olist-Store-Sales-Analysis
 
 ### 🎯 Introduction
 Olist is a Brazil-based e-commerce platform that connects sellers and buyers for online retail services.  
